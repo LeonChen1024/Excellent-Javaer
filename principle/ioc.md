@@ -59,7 +59,7 @@
 
 一般情况下使用 自动注入,注解注入的情况比较多.
 
-[依赖注入详情点这里]()
+[依赖注入详情点这里](https://github.com/LeonChen1024/Excellent-Javaer/blob/master/technique/dependency-injection.md)
 
 
 
@@ -108,7 +108,15 @@
 
 
 
+# About Me
 
+我的博客 [leonchen1024.com](http://leonchen1024.com/)
+
+我的 GitHub [https://github.com/LeonChen1024](https://github.com/LeonChen1024)
+
+微信公众号 
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200313080010845.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoZW5saW5mZW5nNzcyODg1Nzc1,size_16,color_FFFFFF,t_70#pic_center)
 
 
 
